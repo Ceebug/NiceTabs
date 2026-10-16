@@ -2,7 +2,8 @@
 A minimal patch for Firefox that makes the top bar more consistent.
 
 ## What it does
-Literally just adds padding to the left of the tabs.
+**NiceTabs** Literally just makes there be some padding to the left of the tabs when there wouldn't be any. It makes it aligned relative to the distance away from the screen the hamburger icon is.
+
 > [!IMPORTANT]
 > **NiceTabs is *not* supported on macOS.**<br>
 > This is because macOS already places window controls on the left side with native padding, making this patch redundant.
