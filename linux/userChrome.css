@@ -1,0 +1,7 @@
+@media (-moz-gtk-csd-reversed-placement: 0) {
+	:root:not([sizemode="normal"]) .titlebar-spacer[type="pre-tabs"],
+	:root[tiled] .titlebar-spacer[type="pre-tabs"] {
+		width: 6px !important;
+		display: unset !important;
+	}
+}
