@@ -1,0 +1,4 @@
+:root:not([sizemode="normal"]) .titlebar-spacer[type="pre-tabs"] {
+  width: 6px !important;
+  display: unset !important;
+}
