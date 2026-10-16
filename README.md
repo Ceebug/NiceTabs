@@ -9,15 +9,15 @@ Literally just adds padding to the left of the tabs.
 
 ## How to Install
 
-1. Open the folder in this repository named after your OS.
+1. Open the folder in this repository named after your OS (Or be lazy and just use the universal folder).
 2. Open a new tab in Firefox and go to `about:config`.
 3. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to true.
 4. Go to `about:support` and locate your Profile Directory row. Click Open Folder.
 5. Create a folder named `chrome` if it does not already exist.
-6. Copy the `userChrome.css` file from step 1 into your local chrome folder.
+6. Copy the `userChrome.css` file from the folder in step 1 into your local chrome folder.
 
 > [!NOTE]
-> If you already have a `userChrome.css` file, append the contents of the file from step 1 to your already existing `userChrome.css`.
+> If you already have a `userChrome.css` file, append the contents of the file from the folder in step 1 to your already existing `userChrome.css`.
 
 7. Restart ***all** open windows* of Firefox.
 
